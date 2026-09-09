@@ -12,4 +12,6 @@
 -Click "Create Issue" to add it to the tracker
 -Use filters and search to find issues quickly
 -Update status to track progress from Active to Resolve.
+##Screenshot
+![IT Issue Tracker App](screenshot.png)
 
